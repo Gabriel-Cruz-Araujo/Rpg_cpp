@@ -11,8 +11,7 @@ Este projeto é um jogo de RPG baseado em console desenvolvido em C++ usando o Vi
 - [Uso](#uso)
 - [Compilar e Executar](#compilar-e-executar)
 - [Dependências](#dependências)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Descrição do Projeto
 Este projeto de jogo RPG é um jogo simples baseado em console, desenvolvido para fins educacionais. Ele envolve mecânicas básicas de jogo, como criação de personagens, batalhas e gerenciamento de itens. O objetivo do projeto é demonstrar programação orientada a objetos e design básico de jogos em C++.
